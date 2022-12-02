@@ -1,0 +1,9 @@
+numpy
+pandas
+Flask
+scikit-learn
+requests
+Pillow
+torch
+torchvision
+gunicorn == 20.0.4
